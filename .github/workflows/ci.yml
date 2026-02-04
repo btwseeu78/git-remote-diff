@@ -52,4 +52,4 @@ jobs:
           prerelease: false
           files: dist/yamldiff-linux-amd64
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
